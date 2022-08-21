@@ -12,7 +12,6 @@
 
 ## What I learned from this project
 - I have learnt the importance of object-fit element from this project.
-- It took me 3 hours to finish this project.
 
 ## Time taken
 - It took me 3 hours to finish this project.
